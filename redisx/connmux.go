@@ -18,7 +18,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/gomodule/redigo/internal"
+	"internal"
+
 	"github.com/gomodule/redigo/redis"
 )
 
